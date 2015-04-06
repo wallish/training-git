@@ -1,2 +1,4 @@
 # training-git 
-from dev
+
+Second line added from the master branch. 
+
